@@ -1,0 +1,28 @@
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\MainWindow.g.cs
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\App.g.cs
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado_MarkupCompile.cache
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado_MarkupCompile.lref
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\bin\Debug\ConcretoArmado.exe.config
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\bin\Debug\ConcretoArmado.exe
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\bin\Debug\ConcretoArmado.pdb
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\bin\Debug\MaterialDesignColors.dll
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\App.baml
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\MainWindow.baml
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado.g.resources
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado.Properties.Resources.resources
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado.csproj.CopyComplete
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado.exe
+C:\Users\mathe\source\repos\ConcretoArmado\ConcretoArmado\obj\Debug\ConcretoArmado.pdb
+C:\Users\lucas\Desktop\viga sr\ConcretoArmado\obj\Debug\ConcretoArmado.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\viga sr\ConcretoArmado\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\Desktop\viga sr\ConcretoArmado\obj\Debug\App.g.cs
+C:\Users\lucas\Desktop\viga sr\ConcretoArmado\obj\Debug\ConcretoArmado_MarkupCompile.cache
+C:\Users\lucas\Desktop\viga sr\ConcretoArmado\obj\Debug\ConcretoArmado_MarkupCompile.lref
+C:\Users\lucas\Desktop\viga sr\ConcretoArmado\obj\Debug\ConcretoArmado.exe
+C:\Users\lucas\Desktop\viga sr\ConcretoArmado\obj\Debug\ConcretoArmado.pdb
